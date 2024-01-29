@@ -1,4 +1,4 @@
-Final project for Intro to Web Development. HTTP+CSS+JS
+Final project for Intro to Web Development.
 
 The main features:
 
