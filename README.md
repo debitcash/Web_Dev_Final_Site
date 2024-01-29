@@ -1,13 +1,16 @@
-Final project for Intro to web development
+Final project for Intro to Web Development. 
 
-**HTML5 Features:**
-Use of HTML5 tags, including structural tags (<header>, <footer>), text-related tags (<p>, <blockquote>), list tags (<ul>, <ol>), and definition list (<dl>).
+The main features:
+
+
+**HTML5:**
+Use of HTML5 tags, including structural tags (`<header>`, `<footer>`), text-related tags (`<p>`, `<blockquote>`), list tags (`<ul>`, `<ol>`), and definition list (`<dl>`).
 Inline images usage for static and clickable content.
 Utilization of appropriate special characters.
 Inclusion of <meta> tags for enhanced SEO.
 Footer indicating the last website update.
 
-**CSS3 Features:**
+**CSS3:**
 Formatting appearance with CSS3 for paragraphs, lists, headers, background images, tables, and forms.
 Contextual selectors (e.g., e1, e2, e3; e f; e > f; e + f) and attribute selectors (excluding class and id selectors).
 Styling with RGBA and HSLA for color representation.
