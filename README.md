@@ -40,3 +40,8 @@ Implementation of responsive design using grid, flex, float, and positioning lay
 Contextual selectors for controlling sub-level menus, including a navicon image for mobile design.
 Responsive images for different screen sizes and devices.
 Media queries (@media) for specific design adjustments for smaller screens.
+
+<br>
+<div align="center">
+<img src="showcase.gif">
+</div>
